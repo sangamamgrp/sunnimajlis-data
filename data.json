@@ -1,64 +1,68 @@
 {
   "categories": {
+    "search": {
+      "name": "തിരയുക",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_search.png"
+    },
     "quran": {
       "name": "ഖുർആൻ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_quran.png"
     },
     "namaz": {
       "name": "നിസ്കാരം",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_namaz.png"
     },
     "dua": {
-      "name": "ദുആ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+      "name": "ദുആകൾ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_dua.png"
     },
-    "hadith": {
-      "name": "ഹദീസ്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "dhikr": {
+      "name": "ദിക്ർ ദുആ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_dhikr.png"
     },
-    "fiqh": {
-      "name": "ഫിഖ്ഹ്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "tasbeeh": {
+      "name": "വസീൽ / ബൈത്ത്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_tasbeeh.png"
     },
-    "aqeeda": {
-      "name": "അഖീദ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "mawlid": {
+      "name": "മൗലിദ് / സീറ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_mawlid.png"
     },
-    "history": {
-      "name": "ചരിത്രം",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "swalat": {
+      "name": "സ്വലാത്ത്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_swalat.png"
     },
-    "sirah": {
-      "name": "സീറത്ത്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
-    },
-    "kids": {
-      "name": "കുട്ടികൾ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
-    },
-    "women": {
-      "name": "സ്ത്രീകൾ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
-    },
-    "ethics": {
-      "name": "ആചാരം",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
-    },
-    "ibadat": {
-      "name": "ഇബാദത്ത്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
-    },
-    "ramadan": {
-      "name": "റമളാൻ",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "milad": {
+      "name": "മീലാദ് നബവി(സ)",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_milad.png"
     },
     "hajj": {
-      "name": "ഹജ്ജ്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+      "name": "ഹജ്ജ് & ഉംറ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_hajj.png"
     },
-    "zakat": {
-      "name": "സകാത്ത്",
-      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    "noor": {
+      "name": "നൂർ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_noor.png"
+    },
+    "library": {
+      "name": "Library Cloud",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_library.png"
+    },
+    "favorites": {
+      "name": "Favorites",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_favorite.png"
+    },
+    "counter": {
+      "name": "കൗണ്ടർ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_counter.png"
+    },
+    "articles": {
+      "name": "Articles",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_articles.png"
+    },
+    "qibla": {
+      "name": "Qibla",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_qibla.png"
     }
   }
 }
