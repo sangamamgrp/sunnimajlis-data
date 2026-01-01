@@ -8,44 +8,24 @@
   },
   "categories": {
     "cat01": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbarahttps://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name ": "തിരയുക"
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
+      "name": "തിരയുക"
     },
     "cat02": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
       "name": "ഖുർആൻ"
     },
     "cat03": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
       "name": "നിസ്കാരം"
     },
     "cat04": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
       "name": "ഔറാദുകൾ"
     },
     "cat05": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
       "name": "ദിക്ർ ദുആ"
-    },
-    "cat06": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name": "ഖസീദ ബൈത്ത്"
-    },
-    "cat07": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name": "മൗലിദ് "
-    },
-    "cat08": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name": "സ്വലാത്ത്"
-    },
-    "cat09": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name": ""
-    },
-    "cat10": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
-      "name": ""
     }
   }
 }
