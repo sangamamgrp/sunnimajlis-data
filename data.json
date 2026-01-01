@@ -1,0 +1,51 @@
+{
+  "books": {
+    "book01": {
+      "cat_id": "cat01",
+      "pdfurl": "https://drive.google.com/uc?export=download&id=1PKwe_9NZAH-SbT0p1zFB4VGgfB6PFSnY",
+      "title": "അസ്മഹുൽ ബദർ"
+    }
+  },
+  "categories": {
+    "cat01": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbarahttps://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name ": "തിരയുക"
+    },
+    "cat02": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "ഖുർആൻ"
+    },
+    "cat03": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "നിസ്കാരം"
+    },
+    "cat04": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "ഔറാദുകൾ"
+    },
+    "cat05": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "ദിക്ർ ദുആ"
+    },
+    "cat06": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "ഖസീദ ബൈത്ത്"
+    },
+    "cat07": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "മൗലിദ് "
+    },
+    "cat08": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": "സ്വലാത്ത്"
+    },
+    "cat09": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": ""
+    },
+    "cat10": {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media&token=c9645522-66ed-4ed6-935d-d8abfd24ff22",
+      "name": ""
+    }
+  }
+}
