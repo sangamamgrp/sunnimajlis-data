@@ -1,104 +1,33 @@
 {
   "quran": [
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 1",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=1PKwe_9NZAH-SbT0p1zFB4VGgfB6PFSnY" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 2",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 3",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 4",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 5",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 6",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 7",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 8",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 9",  "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 10", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 11", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 12", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 13", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 14", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 15", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "ഖുര്‍ആന്‍ മലയാളം 16", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" }
+    {
+      "title": "ഖുര്‍ആന്‍ മലയാളം 1",
+      "image": "https://sangamamgrp.github.io/sunnimajlis-data/icons/book.png",
+      "pdf": "https://drive.google.com/uc?export=download&id=1PKwe_9NZAH-SbT0p1zFB4VGgfB6PFSnY"
+    },
+    {
+      "title": "ഖുര്‍ആന്‍ മലയാളം 2",
+      "image": "https://sangamamgrp.github.io/sunnimajlis-data/icons/book.png",
+      "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F"
+    }
   ],
 
   "namaz": [
-    { "title": "നിസ്‌കാരം 1", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 2", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 3", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 4", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 5", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 6", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 7", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 8", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 9", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 10","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 11","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 12","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 13","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 14","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 15","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 16","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" }
+    {
+      "title": "നിസ്‌കാരം ഭാഗം 1",
+      "image": "https://sangamamgrp.github.io/sunnimajlis-data/icons/book.png",
+      "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F"
+    }
   ],
 
-  "dua": [   { "title": "നിസ്‌കാരം 1", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 2", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 3", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 4", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 5", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 6", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 7", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 8", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 9", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 10","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 11","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 12","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 13","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 14","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 15","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 16","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" }
-],
-  "hadith": [
-   { "title": "നിസ്‌കാരം 1", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 2", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 3", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 4", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 5", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 6", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 7", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 8", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 9", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 10","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 11","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 12","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 13","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 14","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 15","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 16","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" }
-],
-  "fiqh": [
-   { "title": "badar 1", "image": "ic_home.png", "pdf": "https://drive.google.com/file/d/1PKwe_9NZAH-SbT0p1zFB4VGgfB6PFSnY/view?usp=drivesdk" },
-    { "title": "നിസ്‌കാരം 2", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 3", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 4", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 5", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 6", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 7", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 8", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 9", "image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 10","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 11","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 12","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 13","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 14","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 15","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" },
-    { "title": "നിസ്‌കാരം 16","image": "ic_home.png", "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F" }
-],
-  "aqeeda": [],
-  "history": [],
-  "sirah": [],
-  "kids": [],
-  "women": [],
-  "ethics": [],
-  "ibadat": [],
-  "ramadan": [],
-  "hajj": [],
-  "zakat": [],
-  "books": []
-}
+  "dua": [
+    {
+      "title": "ദുആ സമാഹാരം",
+      "image": "https://sangamamgrp.github.io/sunnimajlis-data/icons/book.png",
+      "pdf": "https://drive.google.com/uc?export=download&id=15kJZNWuF7NnqYC7sRIIdKMdEEGjM_-5F"
+    }
+  ],
+
+  "hadith": [],
+  "fiqh": []
+}}
