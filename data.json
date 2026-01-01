@@ -1,31 +1,68 @@
 {
-  "books": {
-    "book01": {
-      "cat_id": "cat01",
-      "pdfurl": "https://drive.google.com/uc?export=download&id=1PKwe_9NZAH-SbT0p1zFB4VGgfB6PFSnY",
-      "title": "അസ്മഹുൽ ബദർ"
-    }
-  },
   "categories": {
     "cat01": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
-      "name": "തിരയുക"
+      "name": "തിരയുക",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
     },
     "cat02": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
-      "name": "ഖുർആൻ"
+      "name": "ഖുർആൻ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
     },
     "cat03": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
-      "name": "നിസ്കാരം"
+      "name": "നിസ്കാരം",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
     },
     "cat04": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
-      "name": "ഔറാദുകൾ"
+      "name": "ഔറാദുകൾ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
     },
     "cat05": {
-      "icon": "https://firebasestorage.googleapis.com/v0/b/maqbara-finder.appspot.com/o/1766124278549.png?alt=media",
-      "name": "ദിക്ർ ദുആ"
+      "name": "ദിക്ർ & ദുആ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat06": {
+      "name": "ഖസീദ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat07": {
+      "name": "മൗലിദ്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat08": {
+      "name": "സ്വലാത്ത്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat09": {
+      "name": "ദർസ്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat10": {
+      "name": "ഫിഖ്ഹ്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat11": {
+      "name": "അഖീദ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat12": {
+      "name": "ഹദീസ്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat13": {
+      "name": "ചരിത്രം",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat14": {
+      "name": "ഇസ്ലാമിക് കഥകൾ",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat15": {
+      "name": "പ്രഭാഷണം",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
+    },
+    "cat16": {
+      "name": "ഇബാദത്ത്",
+      "icon": "https://sangamamgrp.github.io/sunnimajlis-data/images/ic_icon.png"
     }
   }
 }
