@@ -1,0 +1,36 @@
+{
+  "girls": [
+    { "name": "mahi", "meaning": "Gift of God, blessing" },
+    { "name": "nuha", "meaning": "Gate of Heaven" },
+    { "name": "Ibrahim", "meaning": "Father of nations" },
+    { "name": "Faizan", "meaning": "Generous, beneficent" },
+    { "name": "Arhaan", "meaning": "Ruler, leader" },
+    { "name": "Zayan", "meaning": "Graceful, bright" },
+    { "name": "Adil", "meaning": "Just, fair" },
+    { "name": "Amaan", "meaning": "Peace, protection" },
+    { "name": "Bilal", "meaning": "Fresh, moist" },
+    { "name": "Danish", "meaning": "Wise, intelligent" },
+
+    { "name": "Eshan", "meaning": "God's gift" },
+    { "name": "Farhan", "meaning": "Happy, joyful" },
+    { "name": "Hassan", "meaning": "Handsome, good" },
+    { "name": "Imran", "meaning": "Prosperity" },
+    { "name": "Junaid", "meaning": "Soldier, warrior" },
+    { "name": "Kamil", "meaning": "Perfect, complete" },
+    { "name": "Luqman", "meaning": "Wise man" },
+    { "name": "Mahir", "meaning": "Skilled, expert" },
+    { "name": "Nashit", "meaning": "Energetic" },
+    { "name": "Owais", "meaning": "Gifted companion" },
+
+    { "name": "Rizwan", "meaning": "Acceptance, satisfaction" },
+    { "name": "Saif", "meaning": "Sword" },
+    { "name": "Taha", "meaning": "Pure, gentle" },
+    { "name": "Umar", "meaning": "Life, long-lived" },
+    { "name": "Zaid", "meaning": "Growth, abundance" },
+    { "name": "Sameer", "meaning": "Pleasant companion" },
+    { "name": "Yaseen", "meaning": "Heart of Quran" },
+    { "name": "Shayan", "meaning": "Deserving" },
+    { "name": "Afnan", "meaning": "Branches of paradise" },
+    { "name": "Kabir", "meaning": "Great, powerful" }
+  ]
+}
